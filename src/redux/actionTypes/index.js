@@ -1,4 +1,3 @@
-export const ADD_ITEM = "ADD_ITEM";
-export const DELETE_ITEM = "DELETE_ITEM";
-
-export const GET_WEATHER = 'GET_WEATHER';
+export const GET_WEATHER_PENDING = "GET_WEATHER_PENDING";
+export const GET_WEATHER_ERROR = "GET_WEATHER_ERROR";
+export const GET_WEATHER_SUCCESS = 'GET_WEATHER_SUCCESS';
